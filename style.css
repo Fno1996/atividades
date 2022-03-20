@@ -1,0 +1,21 @@
+.bory{
+    font:20px Arial, sans-serif;
+}
+.navbar{
+    background-color: rgba(14, 209, 209, 0.918);
+}
+.quem-somos{
+    background-color: azure;
+}
+.margin{
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+.parceiros{
+    background-color: rgb(33, 82, 155);
+}
+.bg-footer{
+    background-color: black;
+    font: rgb(254, 254, 255);
+    font-style: oblique;
+}
